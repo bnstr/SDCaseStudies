@@ -60,6 +60,7 @@ Methods: calculate_fine(), pay_fine(), get_fine_details()
   * Search for Book
   * Borrow Book
   * View Borrowed Books
+
 **2) Use Case: Manage Book Inventory**
 * Actors: Librarian
 * Use Cases:

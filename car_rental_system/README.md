@@ -60,6 +60,7 @@ Methods: process_payment(), refund_payment(), get_payment_details()
   * Enter Rental Details
   * Confirm Rental
   * Make Payment
+
 **2) Use Case: Manage Vehicle Inventory**
 * Actors: Admin
 * Use Cases:
