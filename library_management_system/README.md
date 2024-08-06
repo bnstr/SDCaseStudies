@@ -53,7 +53,6 @@ Methods: calculate_fine(), pay_fine(), get_fine_details()
 * Book can have multiple Loans and Reservations.
 * Loan and Reservation are associated with one Book and one User.
 * Fine is associated with one Loan.
-* 
 ### 4) Design Use Case Diagrams
 **1) Use Case: Borrow a Book**
 * Actors: User
