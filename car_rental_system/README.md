@@ -75,7 +75,11 @@ Methods: process_payment(), refund_payment(), get_payment_details()
 4. System calculates the rental cost.
 5. Customer makes the payment.
 6. System updates vehicle availability and creates a rental record.
-   <h3 align="center">![Sequence Diagram](assets/UML_3Sequence Diagram.png)</h3>
+
+<p align="center">
+  <img src="assets/UML_3SequenceDiagram.png" alt="Sequence Diagram">
+</p>
+
 ### 6) Design Activity Diagrams
 **Example: Process Rental**
 1. Start
@@ -86,4 +90,7 @@ Methods: process_payment(), refund_payment(), get_payment_details()
 6. Create Rental Record
 7. End
 
-   <h3 align="center">![Sequence Diagram](assets/UML4_Activity Diagram.png)</h3>
+
+<p align="center">
+  <img src="assets/UML4_ActivityDiagram.png" alt="Activity Diagram">
+</p>
