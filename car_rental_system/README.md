@@ -52,7 +52,6 @@ Methods: process_payment(), refund_payment(), get_payment_details()
 * Rental is associated with one Vehicle.
 * Vehicle has one Pricing structure.
 * Rental can have one Payment.
-* 
 ### 4) Design Use Case Diagrams
 **1) Use Case: Rent a Vehicle**
 * Actors: Customer
